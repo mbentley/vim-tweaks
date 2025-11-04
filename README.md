@@ -5,6 +5,7 @@ Personal Vim syntax and indentation customizations.
 ## Contents
 
 - **ftdetect/**: Custom filetype detection files
+  - `zz_mbentley_nginx.vim` - Custom nginx file types
 - **indent/**: Custom indentation files
   - `groovy.vim` - Groovy indentation support
   - `php.vim` - PHP indentation tweaks
